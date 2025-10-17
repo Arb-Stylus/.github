@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1080" height="298" alt="image" src="https://github.com/user-attachments/assets/29929426-e461-48e8-a745-d279e5b981f0" />
+<img width="1280" height="347" alt="image" src="https://github.com/user-attachments/assets/048782ff-14a7-4da4-a2ac-26fcd42b8d67" />
 </p>
 
 <h1 align="center">Scaffold Stylus</h1>
